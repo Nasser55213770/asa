@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 Sep 2023 04:02:47 at https://fariscoin.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fariscoin.com -O1 "C:\Users\nasse\Downloads\shopping sanalika" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:02:49	Warning: 	Found for https://fariscoin.com/
+04:02:49	Warning: 	File has moved from https://fariscoin.com/ to https://fariscoin.com/ar
+04:04:16	Error: 	"Unprocessable Entity" (422) at link https://fariscoin.com/ar/cart/remove (from https://fariscoin.com/ar)
+04:04:48	Error: 	"Unprocessable Entity" (422) at link https://fariscoin.com/en/cart/remove (from https://fariscoin.com/en)
+04:04:55	Warning: 	Link https://fariscoin.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+04:05:41	Error: 	"Not Found" (404) at link https://fariscoin.com/site/img/flags.png (from https://fariscoin.com/site/css/intlTelInput.min.css)
+04:05:41	Error: 	"Not Found" (404) at link https://fariscoin.com/site/img/flags@2x.png (from https://fariscoin.com/site/css/intlTelInput.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 223 links scanned, 217 files written (5950434 bytes overall) [3774361 bytes received at 21691 bytes/sec], 4321570 bytes transferred using HTTP compression in 184 files, ratio 22%, 321.5 requests per connection
+(4 errors, 3 warnings, 0 messages)
